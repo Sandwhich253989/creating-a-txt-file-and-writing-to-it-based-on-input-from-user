@@ -21,7 +21,7 @@ if(hi.createNewFile()) {
 	 a = ip.nextLine();
 	hie.write(a + "\n");
 }
-	System.out.println("successfully written to the file");
+	System.out.println("successfully written the file to downloads folder");
 	hie.close();
 }
 else {
